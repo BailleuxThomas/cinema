@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bailleuxthomas/static/css/main.a99489b9.chunk.css",
+    "main.js": "/bailleuxthomas/static/js/main.b834ba4f.chunk.js",
+    "runtime-main.js": "/bailleuxthomas/static/js/runtime-main.55371c7f.js",
+    "static/css/2.478ebdbd.chunk.css": "/bailleuxthomas/static/css/2.478ebdbd.chunk.css",
+    "static/js/2.95914a27.chunk.js": "/bailleuxthomas/static/js/2.95914a27.chunk.js",
+    "index.html": "/bailleuxthomas/index.html",
+    "precache-manifest.a55f6dc5c6152c27eeea5a5330bd8cbd.js": "/bailleuxthomas/precache-manifest.a55f6dc5c6152c27eeea5a5330bd8cbd.js",
+    "service-worker.js": "/bailleuxthomas/service-worker.js",
+    "static/js/2.95914a27.chunk.js.LICENSE.txt": "/bailleuxthomas/static/js/2.95914a27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55371c7f.js",
+    "static/css/2.478ebdbd.chunk.css",
+    "static/js/2.95914a27.chunk.js",
+    "static/css/main.a99489b9.chunk.css",
+    "static/js/main.b834ba4f.chunk.js"
+  ]
+}
